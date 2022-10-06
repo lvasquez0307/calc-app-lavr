@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "calc-app-lavr",
+    "calc-app-lavr": "calc-app-lavr"
+  },
+  "targets": {},
+  "etags": {}
+}
